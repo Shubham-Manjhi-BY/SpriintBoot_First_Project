@@ -1,2 +1,2 @@
-# SprintBoot_First_Project
+# SpringBoot_First_Project
 My First Project On Spring Boot.
